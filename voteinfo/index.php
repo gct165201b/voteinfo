@@ -8,6 +8,9 @@
 	<!-- Header Included -->
 
 	<?php include 'includes/header.php'; ?> 
+	
+	
+	<link rel="stylesheet" href="css/mystyle.css">
 
 	<!-- Include nav bar -->
 	<?php include 'includes/navbar.php'; ?>
